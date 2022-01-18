@@ -1,2 +1,7 @@
-# desafio-git-github
-desafio com minhas credenciais
+# DESAFIO DA DIO
+
+## CREDENCIAIS DE:
+
+#### Vinicius Santos de Castro
+
+- contatos
